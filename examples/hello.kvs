@@ -1,0 +1,5 @@
+// kavana hello.kvs
+MAIN
+    SET greeting = "Hello, Kavana!"
+    PRINT "{greeting}"
+END_MAIN
