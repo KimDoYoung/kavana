@@ -19,3 +19,7 @@ my_logs/
 dist/
 build/
 *.db
+.venv/
+lines/
+test.txt
+*.csv
