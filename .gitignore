@@ -23,3 +23,5 @@ build/
 lines/
 test.txt
 *.csv
+.coverage
+coverage*

@@ -4,7 +4,7 @@
 MODE=${1:-onedir}  # ✅ 기본은 onedir
 
 APP_NAME="kavana"
-VENV_DIR="$(pwd)/venv"
+VENV_DIR="$(pwd)/.venv"
 PYTHON_PATH=$(which python)
 
 # 가상환경 활성화

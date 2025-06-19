@@ -6,5 +6,5 @@ end_function
 main
    set global_number = 10
    set a = plus(3, 4)
-   print "{a}"
+   print f"{a}"
 end_main
